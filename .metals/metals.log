@@ -217,3 +217,414 @@ WARNING: offset 60, count -1, length 70
 2023.02.18 12:38:01 INFO  time: compiled hello-world in 0.23s
 Feb 18, 2023 12:40:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.02.18 12:41:50 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:41:57 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:41:59 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:42:45 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:43:19 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:43:33 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:43:42 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:43:43 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:43:58 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:44:01 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Functions.scala
+2023.02.18 12:44:31 INFO  compiling hello-world (1 scala source)
+2023.02.18 12:44:31 INFO  time: compiled hello-world in 0.17s
+2023.02.18 12:44:36 INFO  compiling hello-world (1 scala source)
+2023.02.18 12:44:36 INFO  time: compiled hello-world in 0.22s
+2023.02.18 12:57:55 INFO  compiling hello-world (1 scala source)
+2023.02.18 12:57:55 INFO  time: compiled hello-world in 0.23s
+2023.02.18 13:02:40 ERROR scalafmt: /home/zelator/Documents/hello-world/src/main/scala/Functions.scala:8: error: [dialect scala213] illegal start of simple expression
+  }
+  ^
+2023.02.18 13:02:40 INFO  compiling hello-world (1 scala source)
+2023.02.18 13:02:40 INFO  time: compiled hello-world in 24ms
+2023.02.18 13:03:12 INFO  compiling hello-world (1 scala source)
+2023.02.18 13:03:12 INFO  time: compiled hello-world in 0.24s
+2023.02.18 13:03:42 INFO  compiling hello-world (1 scala source)
+2023.02.18 13:03:42 INFO  time: compiled hello-world in 43ms
+2023.02.18 13:03:50 INFO  compiling hello-world (1 scala source)
+2023.02.18 13:03:50 INFO  time: compiled hello-world in 0.24s
+2023.02.18 13:03:50 INFO  compiling hello-world (1 scala source)
+2023.02.18 13:03:51 INFO  time: compiled hello-world in 66ms
+2023.02.18 14:06:45 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:06:45 INFO  time: compiled hello-world in 0.22s
+2023.02.18 14:07:52 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:07:52 INFO  time: compiled hello-world in 0.22s
+2023.02.18 14:07:53 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:07:53 INFO  time: compiled hello-world in 62ms
+2023.02.18 14:08:00 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:08:00 INFO  time: compiled hello-world in 37ms
+2023.02.18 14:08:09 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:08:09 INFO  time: compiled hello-world in 0.24s
+2023.02.18 14:08:14 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:08:14 INFO  time: compiled hello-world in 0.24s
+2023.02.18 14:21:17 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:21:17 INFO  time: compiled hello-world in 0.16s
+2023.02.18 14:22:45 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:22:45 INFO  time: compiled hello-world in 29ms
+2023.02.18 14:22:57 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:22:57 INFO  time: compiled hello-world in 30ms
+2023.02.18 14:23:22 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:23:22 INFO  time: compiled hello-world in 22ms
+2023.02.18 14:24:14 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:24:14 INFO  time: compiled hello-world in 34ms
+2023.02.18 14:24:15 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:24:15 INFO  time: compiled hello-world in 32ms
+2023.02.18 14:24:32 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:24:32 INFO  time: compiled hello-world in 0.24s
+2023.02.18 14:24:34 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:24:34 INFO  time: compiled hello-world in 0.23s
+2023.02.18 14:24:53 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:24:53 INFO  time: compiled hello-world in 0.21s
+2023.02.18 14:25:15 INFO  running '/home/zelator/jdk-17.0.6/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals15676063868456031953/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.02.18 14:25:15 INFO  [info] welcome to sbt 1.8.2 (Oracle Corporation Java 17.0.6)
+2023.02.18 14:25:15 INFO  [info] loading settings for project hello-world-build-build from metals.sbt ...
+2023.02.18 14:25:15 INFO  [info] loading project definition from /home/zelator/Documents/hello-world/project/project
+2023.02.18 14:25:17 INFO  [info] loading settings for project hello-world-build from metals.sbt ...
+2023.02.18 14:25:17 INFO  [info] loading project definition from /home/zelator/Documents/hello-world/project
+2023.02.18 14:25:18 INFO  [success] Generated .bloop/hello-world-build.json
+2023.02.18 14:25:18 INFO  [success] Total time: 1 s, completed Feb 18, 2023, 2:25:18 PM
+2023.02.18 14:25:18 INFO  [info] loading settings for project hello-world from build.sbt ...
+2023.02.18 14:25:18 INFO  [info] set current project to hello-world (in build file:/home/zelator/Documents/hello-world/)
+2023.02.18 14:25:18 INFO  [success] Generated .bloop/hello-world.json
+2023.02.18 14:25:18 INFO  [success] Generated .bloop/hello-world-test.json
+2023.02.18 14:25:18 INFO  [success] Total time: 0 s, completed Feb 18, 2023, 2:25:18 PM
+2023.02.18 14:25:18 INFO  time: ran 'sbt bloopInstall' in 3.54s
+2023.02.18 14:25:18 INFO  Disconnecting from Bloop session...
+2023.02.18 14:25:18 INFO  Shut down connection with build server.
+2023.02.18 14:25:18 INFO  Shut down connection with build server.
+2023.02.18 14:25:18 INFO  Attempting to connect to the build server...
+2023.02.18 14:25:18 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:25:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:25:18 INFO  Attempting to connect to the build server...
+2023.02.18 14:25:18 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:25:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/project/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:25:18 INFO  time: Connected to build server in 0.11s
+2023.02.18 14:25:18 INFO  Connected to Build server: Bloop v1.5.6
+2023.02.18 14:25:19 INFO  time: indexed workspace in 0.76s
+2023.02.18 14:25:31 INFO  Disconnecting from Bloop session...
+2023.02.18 14:25:31 INFO  Shut down connection with build server.
+2023.02.18 14:25:31 INFO  Shut down connection with build server.
+2023.02.18 14:25:31 INFO  Attempting to connect to the build server...
+2023.02.18 14:25:31 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:25:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:25:32 INFO  Attempting to connect to the build server...
+2023.02.18 14:25:32 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:25:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/project/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:25:32 INFO  time: Connected to build server in 1.29s
+2023.02.18 14:25:32 INFO  Connected to Build server: Bloop v1.5.6
+2023.02.18 14:25:32 INFO  time: indexed workspace in 0.71s
+2023.02.18 14:25:33 INFO  compiling hello-world (4 scala sources)
+2023.02.18 14:25:35 INFO  time: compiled hello-world in 1.83s
+Feb 18, 2023 2:25:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$.<clinit>(DebugProvider.scala:865)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$2(DebugProvider.scala:354)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:325)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:406)
+	at scala.meta.internal.metals.MetalsLanguageServer.executeCommand(MetalsLanguageServer.scala:2012)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.02.18 14:26:16 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+2023.02.18 14:26:19 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+Feb 18, 2023 2:26:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:400)
+	at scala.meta.internal.metals.MetalsLanguageServer.executeCommand(MetalsLanguageServer.scala:2012)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.02.18 14:26:28 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+2023.02.18 14:26:44 INFO  shutting down Metals
+2023.02.18 14:26:44 INFO  Shut down connection with build server.
+2023.02.18 14:26:44 INFO  Shut down connection with build server.
+2023.02.18 14:26:49 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/.metals/lsp.trace.json or /home/zelator/.cache/metals/lsp.trace.json
+2023.02.18 14:26:49 INFO  logging to file /home/zelator/Documents/hello-world/.metals/metals.log
+2023.02.18 14:26:49 INFO  Started: Metals version 0.11.10 in workspace '/home/zelator/Documents/hello-world' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/zelator/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.18 14:26:50 INFO  time: initialize in 0.69s
+2023.02.18 14:26:51 INFO  Attempting to connect to the build server...
+2023.02.18 14:26:51 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:26:51 INFO  skipping build import with status 'Installed'
+2023.02.18 14:26:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:26:51 INFO  Attempting to connect to the build server...
+2023.02.18 14:26:51 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:26:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/project/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:26:51 INFO  time: Connected to build server in 0.16s
+2023.02.18 14:26:51 INFO  Connected to Build server: Bloop v1.5.6
+2023.02.18 14:26:53 INFO  no build target found for /home/zelator/Documents/hello-world/src/main/Recursion.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.18 14:26:53 INFO  time: code lens generation in 1.5s
+2023.02.18 14:26:54 INFO  no build target found for /home/zelator/Documents/hello-world/src/main/Recursion.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.18 14:26:54 INFO  time: code lens generation in 3.18s
+2023.02.18 14:26:56 INFO  time: indexed workspace in 2.79s
+2023.02.18 14:26:56 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+2023.02.18 14:26:56 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+2023.02.18 14:26:59 INFO  running '/home/zelator/jdk-17.0.6/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals14912799216457560560/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.02.18 14:27:00 INFO  [info] welcome to sbt 1.8.2 (Oracle Corporation Java 17.0.6)
+2023.02.18 14:27:00 INFO  [info] loading settings for project hello-world-build-build from metals.sbt ...
+2023.02.18 14:27:00 INFO  [info] loading project definition from /home/zelator/Documents/hello-world/project/project
+2023.02.18 14:27:01 INFO  [info] loading settings for project hello-world-build from metals.sbt ...
+2023.02.18 14:27:01 INFO  [info] loading project definition from /home/zelator/Documents/hello-world/project
+2023.02.18 14:27:02 INFO  [success] Generated .bloop/hello-world-build.json
+2023.02.18 14:27:02 INFO  [success] Total time: 1 s, completed Feb 18, 2023, 2:27:02 PM
+2023.02.18 14:27:02 INFO  [info] loading settings for project hello-world from build.sbt ...
+2023.02.18 14:27:02 INFO  [info] set current project to hello-world (in build file:/home/zelator/Documents/hello-world/)
+2023.02.18 14:27:02 INFO  [success] Generated .bloop/hello-world-test.json
+2023.02.18 14:27:02 INFO  [success] Generated .bloop/hello-world.json
+2023.02.18 14:27:02 INFO  [success] Total time: 0 s, completed Feb 18, 2023, 2:27:02 PM
+2023.02.18 14:27:03 INFO  time: ran 'sbt bloopInstall' in 3.58s
+2023.02.18 14:27:03 INFO  Disconnecting from Bloop session...
+2023.02.18 14:27:03 INFO  Shut down connection with build server.
+2023.02.18 14:27:03 INFO  Shut down connection with build server.
+2023.02.18 14:27:03 INFO  Attempting to connect to the build server...
+2023.02.18 14:27:03 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:27:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:27:03 INFO  Attempting to connect to the build server...
+2023.02.18 14:27:03 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:27:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/project/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:27:03 INFO  time: Connected to build server in 89ms
+2023.02.18 14:27:03 INFO  Connected to Build server: Bloop v1.5.6
+2023.02.18 14:27:03 INFO  time: indexed workspace in 0.78s
+2023.02.18 14:27:04 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+2023.02.18 14:27:37 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+2023.02.18 14:28:04 WARN  no build target for: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+Feb 18, 2023 2:28:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: /home/zelator/Documents/hello-world/src/main/Recursion.scala
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:400)
+	at scala.meta.internal.metals.MetalsLanguageServer.executeCommand(MetalsLanguageServer.scala:2012)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.02.18 14:30:45 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:30:45 INFO  time: compiled hello-world in 0.51s
+2023.02.18 14:30:54 INFO  compiling hello-world (4 scala sources)
+2023.02.18 14:30:54 INFO  time: compiled hello-world in 0.59s
+2023.02.18 14:30:58 INFO  Disconnecting from Bloop session...
+2023.02.18 14:30:58 INFO  Shut down connection with build server.
+2023.02.18 14:30:58 INFO  Shut down connection with build server.
+2023.02.18 14:30:58 INFO  Attempting to connect to the build server...
+2023.02.18 14:30:58 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:31:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:31:00 INFO  Attempting to connect to the build server...
+2023.02.18 14:31:00 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:31:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/project/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:31:00 INFO  time: Connected to build server in 1.31s
+2023.02.18 14:31:00 INFO  Connected to Build server: Bloop v1.5.6
+2023.02.18 14:31:01 INFO  time: indexed workspace in 0.79s
+2023.02.18 14:31:08 INFO  running '/home/zelator/jdk-17.0.6/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals5022745860103006165/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.02.18 14:31:09 INFO  [info] welcome to sbt 1.8.2 (Oracle Corporation Java 17.0.6)
+2023.02.18 14:31:09 INFO  [info] loading settings for project hello-world-build-build from metals.sbt ...
+2023.02.18 14:31:09 INFO  [info] loading project definition from /home/zelator/Documents/hello-world/project/project
+2023.02.18 14:31:10 INFO  [info] loading settings for project hello-world-build from metals.sbt ...
+2023.02.18 14:31:10 INFO  [info] loading project definition from /home/zelator/Documents/hello-world/project
+2023.02.18 14:31:11 INFO  [success] Generated .bloop/hello-world-build.json
+2023.02.18 14:31:11 INFO  [success] Total time: 1 s, completed Feb 18, 2023, 2:31:11 PM
+2023.02.18 14:31:11 INFO  [info] loading settings for project hello-world from build.sbt ...
+2023.02.18 14:31:11 INFO  [info] set current project to hello-world (in build file:/home/zelator/Documents/hello-world/)
+2023.02.18 14:31:11 INFO  [success] Generated .bloop/hello-world.json
+2023.02.18 14:31:11 INFO  [success] Generated .bloop/hello-world-test.json
+2023.02.18 14:31:11 INFO  [success] Total time: 0 s, completed Feb 18, 2023, 2:31:12 PM
+2023.02.18 14:31:12 INFO  time: ran 'sbt bloopInstall' in 3.69s
+2023.02.18 14:31:12 INFO  Disconnecting from Bloop session...
+2023.02.18 14:31:12 INFO  Shut down connection with build server.
+2023.02.18 14:31:12 INFO  Shut down connection with build server.
+2023.02.18 14:31:12 INFO  Attempting to connect to the build server...
+2023.02.18 14:31:12 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:31:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:31:12 INFO  Attempting to connect to the build server...
+2023.02.18 14:31:12 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:31:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/project/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:31:12 INFO  time: Connected to build server in 0.12s
+2023.02.18 14:31:12 INFO  Connected to Build server: Bloop v1.5.6
+2023.02.18 14:31:12 INFO  time: indexed workspace in 0.76s
+Feb 18, 2023 2:31:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$.<clinit>(DebugProvider.scala:865)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$2(DebugProvider.scala:354)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:325)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:406)
+	at scala.meta.internal.metals.MetalsLanguageServer.executeCommand(MetalsLanguageServer.scala:2012)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.02.18 14:31:50 INFO  running '/home/zelator/jdk-17.0.6/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals2314365505407913944/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.02.18 14:31:50 INFO  [info] welcome to sbt 1.8.2 (Oracle Corporation Java 17.0.6)
+2023.02.18 14:31:50 INFO  [info] loading settings for project hello-world-build-build from metals.sbt ...
+2023.02.18 14:31:50 INFO  [info] loading project definition from /home/zelator/Documents/hello-world/project/project
+2023.02.18 14:31:52 INFO  [info] loading settings for project hello-world-build from metals.sbt ...
+2023.02.18 14:31:52 INFO  [info] loading project definition from /home/zelator/Documents/hello-world/project
+2023.02.18 14:31:53 INFO  [success] Generated .bloop/hello-world-build.json
+2023.02.18 14:31:53 INFO  [success] Total time: 1 s, completed Feb 18, 2023, 2:31:53 PM
+2023.02.18 14:31:53 INFO  [info] loading settings for project hello-world from build.sbt ...
+2023.02.18 14:31:53 INFO  [info] set current project to hello-world (in build file:/home/zelator/Documents/hello-world/)
+2023.02.18 14:31:53 INFO  [success] Generated .bloop/hello-world-test.json
+2023.02.18 14:31:53 INFO  [success] Generated .bloop/hello-world.json
+2023.02.18 14:31:53 INFO  [success] Total time: 0 s, completed Feb 18, 2023, 2:31:53 PM
+2023.02.18 14:31:53 INFO  time: ran 'sbt bloopInstall' in 3.75s
+2023.02.18 14:31:53 INFO  Disconnecting from Bloop session...
+2023.02.18 14:31:53 INFO  Shut down connection with build server.
+2023.02.18 14:31:53 INFO  Shut down connection with build server.
+2023.02.18 14:31:53 INFO  Attempting to connect to the build server...
+2023.02.18 14:31:53 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:31:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:31:53 INFO  Attempting to connect to the build server...
+2023.02.18 14:31:53 INFO  Bloop uses /home/zelator/jdk-17.0.6 defined at /home/zelator/.bloop/bloop.json
+2023.02.18 14:31:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/zelator/Documents/hello-world/project/.metals/bsp.trace.json or /home/zelator/.cache/metals/bsp.trace.json
+2023.02.18 14:31:53 INFO  time: Connected to build server in 0.11s
+2023.02.18 14:31:53 INFO  Connected to Build server: Bloop v1.5.6
+2023.02.18 14:31:53 INFO  time: indexed workspace in 0.76s
+Feb 18, 2023 2:32:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$.<clinit>(DebugProvider.scala:865)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$2(DebugProvider.scala:354)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:325)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:406)
+	at scala.meta.internal.metals.MetalsLanguageServer.executeCommand(MetalsLanguageServer.scala:2012)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.02.18 14:32:43 INFO  time: code lens generation in 1.02s
+2023.02.18 14:34:18 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:34:20 INFO  time: compiled hello-world in 1.5s
+2023.02.18 14:34:34 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:34:34 INFO  time: compiled hello-world in 0.49s
+2023.02.18 14:35:23 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:35:23 INFO  time: compiled hello-world in 0.41s
+2023.02.18 14:35:51 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:35:51 INFO  time: compiled hello-world in 0.37s
+2023.02.18 14:37:02 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:37:02 INFO  time: compiled hello-world in 0.32s
+2023.02.18 14:37:13 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:37:13 INFO  time: compiled hello-world in 0.32s
+2023.02.18 14:37:16 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:37:16 INFO  time: compiled hello-world in 0.3s
+Feb 18, 2023 2:37:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 419
+2023.02.18 14:38:03 INFO  compiling hello-world (1 scala source)
+2023.02.18 14:38:03 INFO  time: compiled hello-world in 0.37s
+Feb 18, 2023 2:41:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
